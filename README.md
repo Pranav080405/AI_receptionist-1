@@ -8,6 +8,9 @@ The agent handles real-time human interruptions (**barge-in**), checks clinic in
 
 #  Architecture & Tech Stack
 
+<img width="833" height="580" alt="image" src="https://github.com/user-attachments/assets/d98df52c-e5ba-40a7-a942-658dd3714f45" />
+
+
 ```text
 Microphone (16kHz)
 │
